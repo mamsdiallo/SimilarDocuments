@@ -1,9 +1,11 @@
 # SimilarDocuments
 
-Finding Similar Documents with Cosine Similarity Algorithm
+Objective: Finding Similar Documents with Cosine Similarity Algorithm
 
-Preparing Text Data for Text Mining
-Calculating TF-IDF
-Finding Similar Documents with Cosine Similarity
-Dimension Reduction
-Clustering
+Source: https://twitter.com/MotivatedLiving?s=17
+
+- Preparing Text Data for Text Mining
+- Calculating TF-IDF
+- Finding Similar Documents with Cosine Similarity
+- Dimension Reduction
+- Clustering
