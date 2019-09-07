@@ -2,7 +2,7 @@
 
 Objective: Finding Similar Documents with Cosine Similarity Algorithm
 
-Source: https://twitter.com/MotivatedLiving?s=17
+Source: [Motivation for Life](https://twitter.com/MotivatedLiving?s=17)
 
 - Preparing Text Data for Text Mining
 - Calculating TF-IDF
